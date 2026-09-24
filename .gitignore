@@ -1,0 +1,14 @@
+# Obsidian 工作区布局
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Obsidian 回收站
+.trash/
+
+# Windows / macOS 系统文件
+Thumbs.db
+.DS_Store
+
+# 临时文件
+*.tmp
+*.swp
