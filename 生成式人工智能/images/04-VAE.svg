@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="936pt" height="432pt" viewBox="0 0 936 432" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T18:12:49.346888</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 432 
+L 936 432 
+L 936 0 
+L 0 0 
+z
+" style="fill: #f6f8fc"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 36 210.24 
+L 140.4 210.24 
+Q 149.04 210.24 149.04 201.6 
+L 149.04 144 
+Q 149.04 135.36 140.4 135.36 
+L 36 135.36 
+Q 27.36 135.36 27.36 144 
+L 27.36 201.6 
+Q 27.36 210.24 36 210.24 
+z
+" clip-path="url(#pa48e7a4bbb)" style="fill: #ffffff; stroke: #168578; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 223.2 210.24 
+L 360 210.24 
+Q 368.64 210.24 368.64 201.6 
+L 368.64 144 
+Q 368.64 135.36 360 135.36 
+L 223.2 135.36 
+Q 214.56 135.36 214.56 144 
+L 214.56 201.6 
+Q 214.56 210.24 223.2 210.24 
+z
+" clip-path="url(#pa48e7a4bbb)" style="fill: #ffffff; stroke: #168578; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 453.6 210.24 
+L 633.6 210.24 
+Q 642.24 210.24 642.24 201.6 
+L 642.24 144 
+Q 642.24 135.36 633.6 135.36 
+L 453.6 135.36 
+Q 444.96 135.36 444.96 144 
+L 444.96 201.6 
+Q 444.96 210.24 453.6 210.24 
+z
+" clip-path="url(#pa48e7a4bbb)" style="fill: #ffffff; stroke: #168578; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 727.2 210.24 
+L 889.2 210.24 
+Q 897.84 210.24 897.84 201.6 
+L 897.84 144 
+Q 897.84 135.36 889.2 135.36 
+L 727.2 135.36 
+Q 718.56 135.36 718.56 144 
+L 718.56 201.6 
+Q 718.56 210.24 727.2 210.24 
+z
+" clip-path="url(#pa48e7a4bbb)" style="fill: #ffffff; stroke: #168578; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 149.599731 172.8 
+Q 181.800863 172.8 212.101336 172.8 
+" clip-path="url(#pa48e7a4bbb)" style="fill: none; stroke: #168578; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 206.101336 169.8 
+L 212.101336 172.8 
+L 206.101336 175.8 
+z
+" clip-path="url(#pa48e7a4bbb)" style="fill: #168578; stroke: #168578; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 369.196436 172.8 
+Q 406.79689 172.8 442.496686 172.8 
+" clip-path="url(#pa48e7a4bbb)" style="fill: none; stroke: #168578; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 436.496686 169.8 
+L 442.496686 172.8 
+L 436.496686 175.8 
+z
+" clip-path="url(#pa48e7a4bbb)" style="fill: #168578; stroke: #168578; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 642.796436 172.8 
+Q 680.39689 172.8 716.096686 172.8 
+" clip-path="url(#pa48e7a4bbb)" style="fill: none; stroke: #168578; stroke-width: 1.7; stroke-linecap: round"/>
+    <path d="M 710.096686 169.8 
+L 716.096686 172.8 
+L 710.096686 175.8 
+z
+" clip-path="url(#pa48e7a4bbb)" style="fill: #168578; stroke: #168578; stroke-width: 1.7; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 36 318.24 
+L 439.2 318.24 
+Q 447.84 318.24 447.84 309.6 
+L 447.84 266.4 
+Q 447.84 257.76 439.2 257.76 
+L 36 257.76 
+Q 27.36 257.76 27.36 266.4 
+L 27.36 309.6 
+Q 27.36 318.24 36 318.24 
+z
+" clip-path="url(#pa48e7a4bbb)" style="fill: #ffffff; stroke: #3567b7; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 482.4 318.24 
+L 885.6 318.24 
+Q 894.24 318.24 894.24 309.6 
+L 894.24 266.4 
+Q 894.24 257.76 885.6 257.76 
+L 482.4 257.76 
+Q 473.76 257.76 473.76 266.4 
+L 473.76 309.6 
+Q 473.76 318.24 482.4 318.24 
+z
+" clip-path="url(#pa48e7a4bbb)" style="fill: #ffffff; stroke: #d98428; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #25364a" x="27.36" y="36.023203" transform="rotate(-0 27.36 36.023203)">VAE：训练学会重构，生成从先验出发</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #66778b" x="28.8" y="61.92" transform="rotate(-0 28.8 61.92)">编码器输出的是分布参数；重参数化保留随机性，并打通可微路径</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #168578" x="28.8" y="118.8" transform="rotate(-0 28.8 118.8)">训练</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #25364a" x="88.2" y="176.104688" transform="rotate(-0 88.2 176.104688)">数据 x</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(273.6 166.699313)">编码器</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(255.6 185.510063)">均值、标准差</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(508.874063 166.699313)">采样潜变量 z</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(487.598438 185.510063)">独立噪声 + 可微变换</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(790.2 166.699313)">解码器</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(791.383125 185.510063)">重构 x</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 13px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #25364a" x="237.6" y="291.580078" transform="rotate(-0 237.6 291.580078)">重建项：让潜变量保留输入信息</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 13px; font-family: 'Microsoft YaHei'; text-anchor: middle; fill: #25364a" x="684" y="291.580078" transform="rotate(-0 684 291.580078)">KL正则：让近似后验靠近先验</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #3567b7" x="28.8" y="376.56" transform="rotate(-0 28.8 376.56)">生成</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 15px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #25364a" x="144" y="376.56" transform="rotate(-0 144 376.56)">先验随机采样 z    →    解码器    →    新样本</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #66778b" x="28.8" y="414.869297" transform="rotate(-0 28.8 414.869297)">两项要平衡：只重构可能留下潜空间孔洞；只压KL可能让潜变量失去输入信息。</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa48e7a4bbb">
+   <rect x="0" y="0" width="936" height="432"/>
+  </clipPath>
+ </defs>
+</svg>

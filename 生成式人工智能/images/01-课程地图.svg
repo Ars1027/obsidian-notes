@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="936pt" height="432pt" viewBox="0 0 936 432" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-10T18:12:49.100888</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 432 
+L 936 432 
+L 936 0 
+L 0 0 
+z
+" style="fill: #f6f8fc"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 36 231.84 
+L 306 231.84 
+Q 314.64 231.84 314.64 223.2 
+L 314.64 108 
+Q 314.64 99.36 306 99.36 
+L 36 99.36 
+Q 27.36 99.36 27.36 108 
+L 27.36 223.2 
+Q 27.36 231.84 36 231.84 
+z
+" clip-path="url(#p6688325b80)" style="fill: #ffffff; stroke: #3567b7; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 342 231.84 
+L 612 231.84 
+Q 620.64 231.84 620.64 223.2 
+L 620.64 108 
+Q 620.64 99.36 612 99.36 
+L 342 99.36 
+Q 333.36 99.36 333.36 108 
+L 333.36 223.2 
+Q 333.36 231.84 342 231.84 
+z
+" clip-path="url(#p6688325b80)" style="fill: #ffffff; stroke: #168578; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 648 231.84 
+L 918 231.84 
+Q 926.64 231.84 926.64 223.2 
+L 926.64 108 
+Q 926.64 99.36 918 99.36 
+L 648 99.36 
+Q 639.36 99.36 639.36 108 
+L 639.36 223.2 
+Q 639.36 231.84 648 231.84 
+z
+" clip-path="url(#p6688325b80)" style="fill: #ffffff; stroke: #d98428; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 36 386.64 
+L 306 386.64 
+Q 314.64 386.64 314.64 378 
+L 314.64 262.8 
+Q 314.64 254.16 306 254.16 
+L 36 254.16 
+Q 27.36 254.16 27.36 262.8 
+L 27.36 378 
+Q 27.36 386.64 36 386.64 
+z
+" clip-path="url(#p6688325b80)" style="fill: #ffffff; stroke: #c75369; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 342 386.64 
+L 612 386.64 
+Q 620.64 386.64 620.64 378 
+L 620.64 262.8 
+Q 620.64 254.16 612 254.16 
+L 342 254.16 
+Q 333.36 254.16 333.36 262.8 
+L 333.36 378 
+Q 333.36 386.64 342 386.64 
+z
+" clip-path="url(#p6688325b80)" style="fill: #ffffff; stroke: #3567b7; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 648 386.64 
+L 918 386.64 
+Q 926.64 386.64 926.64 378 
+L 926.64 262.8 
+Q 926.64 254.16 918 254.16 
+L 648 254.16 
+Q 639.36 254.16 639.36 262.8 
+L 639.36 378 
+Q 639.36 386.64 648 386.64 
+z
+" clip-path="url(#p6688325b80)" style="fill: #ffffff; stroke: #168578; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #25364a" x="27.36" y="36.023203" transform="rotate(-0 27.36 36.023203)">全课程地图：复杂分布被拆成了什么？</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'Microsoft YaHei'; text-anchor: start; fill: #66778b" x="28.8" y="61.92" transform="rotate(-0 28.8 61.92)">沿同一条主线理解六类模型：训练学什么 → 生成怎么做</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(143.085938 150.093938)">自回归 AR</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(111 168.904688)">学下一部分的条件分布</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(91.8975 187.715438)">前缀 → 下一项 → 再接回前缀</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(465.789375 150.093938)">VAE</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(417 168.904688)">学潜在原因与条件生成</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(415.8975 187.715438)">先验 → 潜变量 → 解码</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(749.159063 150.093938)">归一化流 NF</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(723 168.904688)">学可逆变换与体积变化</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(725.44875 187.715438)">简单分布 与 复杂分布</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(157.439063 304.893937)">GAN</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(111 323.704687)">借真假比较学习生成器</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(109.8975 342.515437)">噪声 → 生成器 → 样本</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(442.986562 304.893937)">扩散 / Score</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(411 323.704687)">学多噪声尺度的去噪信息</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(409.8975 342.515437)">噪声 → 多步去噪 → 数据</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(740.721563 304.85925)">Flow Matching</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(729 323.739375)">学搬运分布的速度场</text>
+    <text style="font-size: 12px; font-family: 'Microsoft YaHei'; fill: #25364a" transform="translate(715.138125 342.550125)">噪声 → ODE积分 → 数据</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6688325b80">
+   <rect x="0" y="0" width="936" height="432"/>
+  </clipPath>
+ </defs>
+</svg>
