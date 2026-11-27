@@ -1,8 +1,0 @@
-views:
-  - type: table
-    name: 视图
-    order:
-      - tags
-    sort:
-      - property: tags
-        direction: ASC
